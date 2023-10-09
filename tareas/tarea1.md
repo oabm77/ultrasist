@@ -1,6 +1,6 @@
-##Tarea 1
+## Tarea 1
 
-###Investigar para que sirven esta herramientas:
+### Investigar para que sirven esta herramientas:
 
 - **zsh-shell**: Z shell es un potente intérprete de comandos para sistemas operativos de tipo Unix, como por ejemplo los BSD o GNU/Linux.​
 - **git**: es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia, la confiabilidad y compatibilidad del mantenimiento de versiones de aplicaciones cuando estas tienen un gran número de archivos de código fuente.
